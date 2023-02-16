@@ -1,0 +1,18 @@
+div {
+  display: flex;
+  width: 100%;
+  border: 1px solid red;
+  justify-content: center;
+  aling-items: center;
+  background-color: #808080;
+}
+.subContainer{
+  display: flex;
+  width: 100%;
+  border: 1px solid red;
+  justify-content: center;
+  aling-items: center;
+}
+h2 {
+  color: white;
+}
