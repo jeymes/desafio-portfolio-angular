@@ -19,6 +19,12 @@
   font-size: 40px;
   font-weight: 700;
 }
+@media(max-width:800px){
+  .title {
+    padding-left: 20px;
+    margin-bottom: 50px;
+  }
+}
 .subContainer{
 display: flex;
 justify-content: center;
@@ -27,5 +33,6 @@ flex-direction: column;
 height: 90%;
 width: 90%;
 }
+
 
 
