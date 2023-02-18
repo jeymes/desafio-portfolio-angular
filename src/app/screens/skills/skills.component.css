@@ -8,6 +8,12 @@
   background-color: #00008B;
   padding-top: 50px;
   }
+  @media(max-width:800px){
+    .container {
+      padding-top: 0px;
+      padding-bottom: 30px;
+    }
+  }
 .title{
   padding-left: 100px;
   color: white;
@@ -28,6 +34,10 @@ flex-direction: column;
 height: 90%;
 width: 90%;
 }
-
+@media(max-width:800px){
+  .subContainer {
+    width: 100%;
+  }
+}
 
 
