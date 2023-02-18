@@ -1,0 +1,47 @@
+.container{
+  display: flex;
+  height: 100vh;
+  width: 100%;
+  justify-content: center;
+  align-self: center;
+  background-color: #00008B;
+}
+.subContainer{
+  display: flex;
+  width: 90%;
+  justify-content: center;
+  align-self: center;
+  /* border: 1px solid red; */
+}
+.containerTitle{
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  justify-content: center;
+  align-self: center;
+  /* border: 1px solid red; */
+}
+.title{
+  padding-left: 50px;
+  color: white;
+  font-size: 45px;
+  font-weight: 700;
+}
+.description{
+  color: white;
+  font-size: 17px;
+  font-weight: 100;
+  padding: 50px;
+}
+.containerImg{
+  display: flex;
+  width: 50%;
+  padding: 50px;
+  justify-content: center;
+  align-self: center;
+  /* border: 1px solid red; */
+}
+img{
+  width: 100%;
+  border-radius: 100%;
+}
