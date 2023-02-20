@@ -7,10 +7,10 @@
   width: 100%;
   background-color: #00008B;
   padding-top: 50px;
+  padding-bottom: 50px;
   }
   @media(max-width:800px){
     .container {
-      padding-top: 0px;
       padding-bottom: 30px;
     }
   }
@@ -39,5 +39,17 @@ width: 90%;
     width: 100%;
   }
 }
-
-
+.skills{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-self: center;
+  width: 100%;
+  margin-bottom: 50px;
+}
+@media(max-width:800px){
+  .skills{
+    width: 100%;
+    margin-block: 15px;
+  }
+}

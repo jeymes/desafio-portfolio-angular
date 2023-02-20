@@ -5,8 +5,8 @@
   align-self: center;
   flex-direction: column;
   background-color: #00008B;
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 @media(max-width:800px){
   .container {

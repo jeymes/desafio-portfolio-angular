@@ -38,6 +38,8 @@ width: 90%;
 cursor: pointer;
 border: 1px solid rgba(20,157,208,1) ;
 box-shadow: 0 0 5px rgba(20,157,208,1);
+padding-top: 50px;
+padding-bottom: 50px;
 }
 @media (max-width: 690px) {
   .subContainer{
