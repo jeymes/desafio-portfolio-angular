@@ -5,6 +5,7 @@ Desenvolver um portfólio utilizando material design e framework Angular na vers
 O portfólio deve apresentar suas experiências profissionais, cursos, tempo nas
 linguagens de programação e projetos já desenvolvidos (caso tenha).
 
+100% responsivel!
 
 ## Stack utilizada
 
