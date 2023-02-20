@@ -14,16 +14,3 @@
     padding-bottom: 50px;
   }
 }
-.title{
-  padding-left: 100px;
-  color: white;
-  font-size: 40px;
-  font-weight: 700;
-}
-@media(max-width:800px){
-  .title {
-    padding-left: 20px;
-    margin-bottom: 20px;
-  }
-}
-
